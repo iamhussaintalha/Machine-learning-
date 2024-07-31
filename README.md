@@ -16,3 +16,11 @@ This project demonstrates the implementation of a regression model using the Gra
 
 5. Regression using Simultaneous Equations
 This project involves the implementation of regression using Simultaneous Equations. It includes solving linear equations to find the best fit line for the given data.
+## Author
+
+**Talha Hussain**
+
+- **GitHub**: [iamhussaintalha](https://github.com/iamhussaintalha)
+- **Personal Website**: [Talha Hussain](https://sites.google.com/view/talhahussain/home?authuser=0)
+- **Kaggle**: [hussaintalha](https://www.kaggle.com/hussaintalha)
+- **LinkedIn**: [Talha Hussain](www.linkedin.com/in/talha-hussain-a96029300)
